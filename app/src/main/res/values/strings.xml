@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WorldSkillsBank</string>
+    <string name="worldskills_bank">WorldSkills Bank</string>
+    <string name="txt1">Отделения и банкоматы</string>
+    <string name="txt2">Курсы валют</string>
+    <string name="date">31.12.2018</string>
+    <string name="usd_c">USD 91.37</string>
+    <string name="eur_с">EUR 99.94</string>
+    <string name="txt3">ВОЙТИ</string>
+    <string name="auth1">Авторизация</string>
+    <string name="login_field">Логин</string>
+    <string name="password_field">Пароль</string>
+    <string name="input_text">Введите ваш логин и пароль</string>
+    <string name="join_text">Войти</string>
+    <string name="cancelJoin_text">Отмена</string>
+    <string name="incorrect_login_data">Неправильный логин или пароль!</string>
+    <string name="usd">USD</string>
+    <string name="usd_name">Доллар США</string>
+    <string name="sell_cost">91.37</string>
+    <string name="buy_cost">91.37</string>
+    <string name="atm_address">Москва, ул. Вавилова, д. 7</string>
+    <string name="worktime">Часы работы 00:00-00:00</string>
+    <string name="atm">Банкомат</string>
+    <string name="working">Работает</string>
+    <string name="auth_request">Требуется пройти авторизацию!</string>
+</resources>
